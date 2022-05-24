@@ -4,4 +4,3 @@
 - I'm working with React, Angular, Node, MongoDB and PostgreSQL
 - And, well, I obviously use Git
 - If you are in search of a web developer, you can always contact me via **eldar158@gmail.com**
-- 
